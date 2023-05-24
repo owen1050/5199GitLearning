@@ -3,3 +3,4 @@ change
 change number 2
 change number 3
 this is the change the master branch wants
+this is the change newFolderBranch wants
